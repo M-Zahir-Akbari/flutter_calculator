@@ -15,7 +15,7 @@ It demonstrates a **basic calculator functionality**:
 - Result display  
 - Simple validation (e.g., divide by zero, invalid input)
 
-This version is designed as a starting point for future improvements, such as interactive buttons, scientific functions, and full expression parsing.
+This version is designed as a starting point for future improvements, such as interactive buttons, scientific functions, & full expression parsing.
 
 ---
 
